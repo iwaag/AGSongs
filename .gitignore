@@ -1,0 +1,10 @@
+#for Visual Studio
+syntax:glob
+*.jpg
+*.nosync
+Project File Backups/
+Autosave/
+DisplayState.plist
+MetaData.plist
+.musicapps-project-folder
+
